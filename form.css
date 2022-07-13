@@ -1,0 +1,20 @@
+﻿body {
+    font-family: 'Segoe UI';
+    }
+label {
+    display: flex;
+}
+
+.desc {
+    height: 300px;
+    }
+input[type="text"], input {
+    width: 500px;
+    overflow: auto;
+}
+.submit {
+    margin: 0 auto;
+    display: block;
+    margin-top: 10px;
+    
+}

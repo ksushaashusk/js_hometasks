@@ -1,0 +1,14 @@
+﻿.task
+{
+    width: 500px;
+    height: 200px;
+    background-color: lightcoral;
+   
+    text-align: center;
+    border-style: solid;
+    margin: 0 auto;
+
+}
+.active {
+    background-color: orange;
+}
